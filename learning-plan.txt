@@ -1,3 +1,7 @@
-My learning plan before 2022:
-1. Learn Laravel
-2. Create small project in Laravel
+My plan before 2022:
+1. Learn Laravel.
+2. Create small project in Laravel.
+
+My plan in 2022:
+1. Learn Python
+
