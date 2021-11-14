@@ -2,4 +2,4 @@ My learning sources (for Laravel):
 1. Youtube channel Web Programming UNPAS.
 2. Youtube channel Programmer Zaman Now.
 3. Laravel documentation.
-4. Short course (optional).
+4. Short course: Coding studio, Coursera (optional).
