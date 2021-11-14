@@ -3,5 +3,8 @@ My plan before 2022:
 2. Create small project in Laravel.
 
 My plan in 2022:
-1. Learn Python
+1. Learn Bootstrap deeper
+2. Learn React.js
+3. Learn Vue.js
+4. Learn Python
 
