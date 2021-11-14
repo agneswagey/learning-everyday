@@ -3,3 +3,4 @@ My learning sources (for Laravel):
 2. Youtube channel Programmer Zaman Now.
 3. Laravel documentation.
 4. Short course: Coding studio, Coursera (optional).
+5. Option certification course: Coursera
